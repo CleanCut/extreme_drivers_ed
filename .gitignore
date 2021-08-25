@@ -1,4 +1,3 @@
 **/*.rs.bk
 **/target
-# todo: Uncomment the line below if this is a library
-#**/Cargo.lock
+**/Cargo.lock

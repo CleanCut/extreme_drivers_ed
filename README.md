@@ -1,6 +1,18 @@
-# todo: Rust Template
+# Extreme Driver's Ed: A Game Built with Rusty Engine
 
-todo: Description paragraph. (grep for all the `todo`s)
+Can you survive your driving exam?
+
+Written for [Rusty Jam, Aug 2021](https://itch.io/jam/rusty-jam)
+
+## Quick Start
+
+```shell
+$ git clone https://github.com/CleanCut/extreme_drivers_ed.git
+
+$ cd extreme_drivers_ed
+
+$ cargo run --release
+```
 
 ## Contribution
 
@@ -14,4 +26,4 @@ See [license/APACHE](license/APACHE) and [license/MIT](license/MIT).
 
 ## Sponsor
 
-If you like `todo`, please consider [sponsoring me] on GitHub. 💖
+If you like _Extreme Driver's Ed_, please consider [sponsoring me] on GitHub. 💖
